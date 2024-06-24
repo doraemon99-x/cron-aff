@@ -28,8 +28,8 @@ def schedule_job_on_specific_date():
 
     # Daftar waktu target dalam satu hari
     target_times = [
-        "14:55",
-        "19:35",
+        "19:45",
+        "19:55",
     ]
 
     while True:
