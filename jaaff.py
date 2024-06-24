@@ -5,6 +5,7 @@ import requests
 # List of URLs
 urls = [
     "https://str.skom.id/vid/vidmpd/tv.php?id=17474",
+    "https://str.skom.id/vid/vidmpd/tv.php?id=17473",
     ]
 
 # Visit each URL
