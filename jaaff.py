@@ -5,6 +5,7 @@ import requests
 # List of URLs
 urls = [
     "https://tipivid.000webhostapp.com/vidmpd/tv.php?id=17473",
+    "https://tipivid.000webhostapp.com/vidmpd/tv.php?id=17474",
     ]
 
 # Visit each URL
