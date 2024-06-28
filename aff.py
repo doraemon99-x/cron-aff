@@ -24,13 +24,12 @@ def schedule_job_on_specific_date():
     wib = pytz.timezone('Asia/Jakarta')
     
     # Tanggal target
-    target_date = datetime(2024, 6, 27, tzinfo=wib)
+    target_date = datetime(2024, 6, 28, tzinfo=wib)
 
     # Daftar waktu target dalam satu hari
     target_times = [
-        "19:31",
-        "19:45",
-        "20:05",
+        "14:31",
+        "14:45",
     ]
 
     while True:
